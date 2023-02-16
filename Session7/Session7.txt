@@ -1,0 +1,21 @@
+Week-3
+
+Session-7 Arrays Class-1
+1.What is Array?
+2.why array is needed??
+3.creating an array
+4.Index and access array
+5.Arrays and function
+6.Pass by reffernce concept
+7.Linear Search in Array
+8.count 0s and 1s
+9.Maximum number in array
+10.Print Extreme in array (Two pointer approach)
+11.Reverse array
+
+
+HomeWork 
+
+1.Implement swap function
+2.Memset in C++ apply?? use? explore?
+3.find minimumnumber in given array?

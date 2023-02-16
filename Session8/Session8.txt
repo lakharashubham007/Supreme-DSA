@@ -1,0 +1,16 @@
+
+
+1.Dynamic array(Vector introduction)
+2.Find Unique Element
+3.Union of 2 Arrays
+4.Intersection of two Arrays
+5.Pair sum
+6.Triplet sum
+7.Sort 0s and 1s
+8.for loop advanced
+
+
+HomeWork
+1.Left Rotate array by 1 Element
+2.Majority element in array
+3.Buy and sell stock 1

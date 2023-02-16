@@ -1,0 +1,20 @@
+1.2D Arrays introduction
+2.How 2D arrays Store in memory
+3.2D array ip /  op
+4.Row sum print.
+5.Linear Search in 2d Array
+6.Get min/max in 2d Array
+7.Transpose of matrix
+8.Dynmic 2D array -- Vector in 2d Array
+
+
+HomeWork
+1.sort 0s,1s and 2s
+2.move all -ve number to one side array
+3.Find Duplicate of array
+4.Find missing element in array
+5.Find first repeating element in array
+6.find common element in 3 array
+7.factorial of large number
+8.Spiral Print
+9.Wave Print
