@@ -27,10 +27,10 @@
     <summary><h3>Week-8 [DNC] ✨</h3></summary>
     
 
-| Date      | Task                      | status           |
-|-----------|---------------------------|------------------|
-| 10 April  |         DNC Level-1               | [x]completed        |
-| 11 April  |         DNC Level-2               | Pending          |
+| Date      | Task                              | status                               |
+|-----------|-----------------------------------|--------------------------------------|
+| 10 April  |         DNC Level-1               | completed :heavy_check_mark:         |
+| 11 April  |         DNC Level-2               | Pending                              |
 
 
 </details>
