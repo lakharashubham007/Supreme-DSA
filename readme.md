@@ -8,3 +8,29 @@
 |--------|---------------------------|----------------|
 | Topic: | Problem:                  | Related Link   |
 |<->      |                          |                |
+
+</details>
+
+<details>
+    <summary><h3>Week-2 [Basics of Programming] ✨</h3></summary>
+    <h5>Pattern + function + loops</h5>
+
+| Topic  | Important DSA Questions   | Link           |
+|--------|---------------------------|----------------|
+| Topic: | Problem:                  | Related Link   |
+|<->      |                          |                |
+
+
+</details>
+
+<details>
+    <summary><h3>Week-8 [DNC] ✨</h3></summary>
+    
+
+| Date      | Task                      | status           |
+|-----------|---------------------------|------------------|
+| 10 april  |         DNC               | completed        |
+|<->      |                          |                |
+
+
+</details>
