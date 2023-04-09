@@ -1,0 +1,223 @@
+
+Week-1
+
+Session-1
+
+1.Thought Process to solve a problem
+2.Using computer to solve problem
+3.What is algorithm?
+4.FlowChart 
+5.PseudoCode
+6.Add 2 number by taking input -flowchart and pseudocode
+7.Find curcumference of a cirlcle -flowchart and pseudocode
+8.Average of 3 number -flowchart and pseudocode
+9.Check number is odd or even -flowchart and pseudocode
+10.Students and Grade -- Flow chart
+11.Check number is +ve -ve and Zero
+12.Add N numbers from user
+13.print 1 to N but only odd numbers
+
+13.HomeWork
+
+
+
+InterView Questions
+1. Flow chart related  Interview Question: https://climbtheladder.com/flowchart-interview-questions/
+2. PseudoCode related InterviewQuestion: https://www.faceprep.in/capgemini/capgemini-pseudocode-questions-and-answers/
+
+
+1. What are two advantages of creating a flowchart to represent our process or program?
+2. Why should we avoid using more than one connector at a time?
+
+
+Session-2
+
+1.Compilation process
+2.What is Programming Language?? H.W = Interpreter VS Compiler
+3.First Program - NamsteWorld
+3.Taking input in c++ ===> by using cin
+4.Datatype and Varible? H.W = ASCII VALUE?, Explore Variable naming conventions?
+5.sizeof
+6.How data is stored
+7.signed vs unsigned H.W = Find range of data type
+8.TypeCasting
+9.operators H.W = Explore Precedance Table?
+
+
+
+Session3
+
+1.Conditionals 
+  * if
+  * if - else
+  * if- else if - else
+2.Loops
+  * for loop - syntax ,for loop flow
+3.Patterns
+  1.Solid Ractangle
+  2.sqaure Ractangle
+  3.Hollow Ractangle
+  4.Half Pyramid
+  5.Inverted Half Pyramid
+  6.Numeric Half Pyramid
+  7.Inverted Numeric Half Pyramid.
+
+HomeWork
+
+1. Pattern
+   1.Full pyramid
+   2.Inverted Full pyramid
+
+2.find Output
+ 
+ int n;
+  if(cin>>n){
+  cout<<"abc";
+ }
+
+
+
+Week -2 Basics of programming-2
+
+Session: 4 Pattern
+
+1.Full Pyramid
+2.Inverted Full Pyramid
+3.Solid Diamond
+4.Hollow Diamod
+5.Flipped Solid Diamond
+6.Fancey pattern
+7.Alphabet Palindorme Pyramid
+
+HomeWork
+1.Solid square
+2.hollow Square
+3.hollow Inverted Full Pyramid
+4.hollow Full Pyramid
+5.Numeric Hollow half Pyramid
+6.Numeric Hollow Inverted half Pyramid
+7.Numeric Palindrome Equalitral Pyramid
+8.FancyPattern#1 -- check session slides
+9.solid half diamond
+10.Fancy pattern#3-- check session slides
+11.Fancy pattern#2-- check session slides
+12.Floyds triangle
+13.Butterfly pattern
+14.Pascals Triangle pattern
+
+
+
+Session-5 Pattern + Operators Loops and conditionals
+
+1.Numeric Full Pyramid
+2.Numeric Hollow Pyramid
+3.Bitwise operator
+  AND OR NOT XOR
+4.Left and Right shift oprator
+5.Pre/Post Increment/Decrement Operator
+6.Break and continue keyword
+7.variable scopping
+8.operator precedance
+9.switch case
+
+Home Work:
+1.Explore Switch case
+2.Apply contiue Keyword in switch case code.
+
+Session-6 Function and Some Problem statement
+
+1. Function
+2. Why Function
+3.Function Call Stack
+4.Pass by Value Concept
+5.Write a function to add 2 numbers
+6.Function order
+7.Find max of 3 numbers
+8.Counting from 1 to N
+9.Write a function for student and grade problem
+10.Sum of even no. upto N
+
+
+HomeWork: 
+1.Write a function to display circle
+2.Find number is even or odd
+3.Find Factorial of number
+4.Check Number is prime or not
+5.Print all prime number upto N
+6.Print all digits in an integer
+7.Create numbers using digits
+8.Print number of set bits
+9.Print binary equuivalent of a decimal number
+10.Convert distance in  KM to miles
+11.Reverse an integer
+12.Set i'th bit
+13.Convert Celsius to Farhrenheit.
+
+
+Week-3
+
+Session-7 Arrays Class-1
+1.What is Array?
+2.why array is needed??
+3.creating an array
+4.Index and access array
+5.Arrays and function
+6.Pass by reffernce concept
+7.Linear Search in Array
+8.count 0s and 1s
+9.Maximum number in array
+10.Print Extreme in array (Two pointer approach)
+11.Reverse array
+
+
+HomeWork 
+
+1.Implement swap function
+2.Memset in C++ apply?? use? explore?
+3.find minimumnumber in given array?
+
+
+
+Session-8 Array Class-2
+
+1.Dynamic array(Vector introduction)
+2.Find Unique Element
+3.Union of 2 Arrays
+4.Intersection of two Arrays
+5.Pair sum
+6.Triplet sum
+7.Sort 0s and 1s
+8.for loop advanced
+
+
+HomeWork
+1.Left Rotate array by 1 Element
+2.Majority element in array
+3.Buy and sell stock 1
+
+
+Session-9 Array Class-3
+
+1.2D Arrays introduction
+2.How 2D arrays Store in memory
+3.2D array ip /  op
+4.Row sum print.
+5.Linear Search in 2d Array
+6.Get min/max in 2d Array
+7.Transpose of matrix
+8.Dynmic 2D array -- Vector in 2d Array
+
+
+HomeWork
+1.sort 0s,1s and 2s
+2.move all -ve number to one side array
+3.Find Duplicate of array
+4.Find missing element in array
+5.Find first repeating element in array
+6.find common element in 3 array
+7.factorial of large number
+8.Spiral Print
+9.Wave Print
+
+
+

@@ -1,0 +1,25 @@
+
+Week-4 
+Session-10
+Searching
+
+1.Linear Search Intro.
+2.Binary Search.
+3.Implimentation of Binary Search.
+4.Time Complexity Analysis of Binary Search.
+5.Binary Search in STL.
+6.Apply Binary Search STL on Vector and Array.
+7.Find the first Occrance of an element by binary Search.
+8.First and Last Occrance STL methods Upper and Lower Bound.
+9.Find the Total Occrance of an element by binary Search.
+10.Peak Element in Mountain Array.
+
+
+
+HomeWork
+1.Find the Last Occrance of an element by binary Search.
+2.Find Missing Element. 
+
+3.Find Pivot using Binary Search.
+4.Search in a rotated and sorted Array.
+5.Square root using binary Search.
