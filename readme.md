@@ -29,7 +29,7 @@
 
 | Date      | Task                      | status           |
 |-----------|---------------------------|------------------|
-| 10 April  |         DNC Level-1               | completed        |
+| 10 April  |         DNC Level-1               | [x]completed        |
 | 11 April  |         DNC Level-2               | Pending          |
 
 
