@@ -34,3 +34,17 @@
 
 
 </details>
+
+
+
+<details>
+    <summary><h3>Revision Week5✨</h3></summary>
+    
+
+| Date      | Task                              | status                               |
+|-----------|-----------------------------------|--------------------------------------|
+| 11 April  |         Pointer Level-1           | completed :heavy_check_mark:         |
+| 11 April  |         DNC Level-2               | Pending                              |
+
+
+</details>
