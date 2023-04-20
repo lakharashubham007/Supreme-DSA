@@ -75,8 +75,9 @@ int main()
     // int n = 12;
 
     //TestCase: 2
-    int arr[] = {38,27,43,3,9,20};
-    int n = 6;
+    //int arr[] = {38,27,43,3,9,20};
+    int arr[] = { 1, 1, 9, 2, 95, 88, 88, 8, 8, 26 };
+    int n = 10;
 
     int s = 0;
     int e = n - 1;
