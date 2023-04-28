@@ -49,3 +49,17 @@
 
 
 </details>
+
+
+<details>
+    <summary><h3>Arrays✨</h3></summary>
+    
+
+| DATE      | TASK                              | STATUS                               |
+|-----------|-----------------------------------|--------------------------------------|
+| 28 April  |         Linear Search Find element in array          | Completed :heavy_check_mark:         |
+| 12 April  |         DNC Level-2               | Pending                              |
+| 13 April  |         DNC Level-2               | Pending                              |
+
+
+</details>
