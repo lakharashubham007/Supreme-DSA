@@ -15,6 +15,22 @@ public:
         this->data = data; // Initialize data with the provided value
         this->next = NULL; // Initialize next pointer to NULL
     }
+
+       ~Node() {
+        int val = this->data;
+        //Memory free
+        if(this -> next != NULL){
+            delete next;
+            this->next = NULL;
+        }
+        cout<<"Memory free for node with data: "<<val<<endl;
+       
+        //OR
+
+        // Destructor to free memory when the node is destroyed
+        cout << "Deleting Node with data: " << data << ", Memory Address: " << this << endl;
+        delete next; // Recursively delete the next node
+    }
 };
 
 void insertAtHead(Node* &head, Node* &tail, int data) {
