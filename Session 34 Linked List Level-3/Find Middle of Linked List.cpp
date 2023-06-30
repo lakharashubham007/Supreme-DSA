@@ -78,3 +78,28 @@ int main() {
 
     return 0;
 }
+
+
+/*
+
+Time Complexity:
+
+Creating the linked list: O(n), where n is the number of nodes.
+Printing the linked list: O(n), where n is the number of nodes.
+Finding the middle node: O(n), where n is the number of nodes.
+Overall time complexity: O(n).
+
+Space Complexity:
+
+Creating the linked list: O(n), where n is the number of nodes.
+Additional pointers: O(1) (constant space).
+Overall space complexity: O(n).
+
+In summary, the code has linear time complexity, 
+as the most time-consuming operation, finding the middle node, 
+takes O(n) time. 
+The space complexity is also O(n) since the memory usage is proportional to the number of nodes 
+in the linked list.
+
+
+*/
