@@ -1,0 +1,27 @@
+
+add comments to the code for readability according to industry standards:
+
+["code here"]
+
+write comments provide a brief description of each section of the code, making it easier to understand the purpose and functionality of the different parts.
+
+
+
+
+ brief summary of the time and space complexity of the provided code:
+
+
+
+
+
+ Certainly! Here's a revised prompt to address your request:
+
+Please add comments to the code provided below to improve readability according to industry standards:
+
+```cpp
+["code here"]
+```
+
+Write comments to provide a brief description of each section of the code. This will make it easier to understand the purpose and functionality of the different parts.
+
+Additionally, please provide a brief summary of the time and space complexity of the provided code.
