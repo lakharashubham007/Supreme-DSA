@@ -11,7 +11,8 @@
         "initializer_list": "cpp",
         "type_traits": "cpp",
         "xutility": "cpp",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "xmemory": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled",
     "liveServer.settings.port": 5501
